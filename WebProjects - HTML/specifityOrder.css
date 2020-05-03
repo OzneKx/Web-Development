@@ -1,0 +1,26 @@
+/*ID Selectors*/
+#hello{
+  
+}
+
+/*Class, Attribute and Pseudo-Class Selectors*/
+input[type="text"]{
+
+}
+
+.hello{
+
+}
+
+/*Type Selectors*/
+li + a {
+
+}
+
+li a {
+
+}
+
+li {
+
+}
