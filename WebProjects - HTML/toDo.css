@@ -1,3 +1,15 @@
 body{
   background: rgb(115, 154, 204)
 }
+
+li {
+  border: 2px solid salmon
+}
+
+#special{
+  background: yellow;
+}
+
+.completed{
+  text-decoration: line-through;
+}
