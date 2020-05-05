@@ -5,11 +5,13 @@ h1 {
 }
 
 hr {
-  margin: 1.66%
+  margin-left: 1.66%;
+  margin-right: 68.15%;
+  border: 0.05px solid red;
 }
 
 img {
-  width: 29.91378%;
+  width: 30%;
   float: left;
   margin: 1.66%
 }
