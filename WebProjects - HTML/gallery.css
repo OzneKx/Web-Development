@@ -1,13 +1,10 @@
-.col-lg-4 { 
-  img-size: 100px;
-}
-
 body{
   padding-top: 70px;
 }
 
 .jumbotron{
-  color: #2c3e50
+  color: #2c3e50;
+  background: #ecf0f1;
 }
 
 .navbar-inverse {
@@ -15,5 +12,10 @@ body{
 }
 
 .navbar-inverse .navbar-nav>li>a{
-  background: white;
+  color: white;
 }
+
+.navbar-inverse .navbar-brand {
+  color: white;
+}
+
